@@ -4,7 +4,7 @@
 👋 Hi, I’m <b>Laoshan Monk
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,godot,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=py,js,go,cpp,cs,godot,unity,unreal" />
   </a>
 </p>
 
